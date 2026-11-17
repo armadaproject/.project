@@ -24,7 +24,7 @@ repositories:
 
 website: "https://armadaproject.io/"
 
-artwork: "https://landscape.cncf.io/logos/armada.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/armada"
 
 adopters:
   path: "https://github.com/armadaproject/armada/blob/master/ADOPTERS.md"
